@@ -1,0 +1,10 @@
+include ':adSpecfic'
+include ':adProtool'
+include ':userspecfic'
+include ':userprotool'
+include ':Base'
+//include ':servicemanager-api'
+//include ':servicemanager-processer'
+//include ':servicemanager-annotaion'
+include ':app'
+rootProject.name = "ServiceManager"
